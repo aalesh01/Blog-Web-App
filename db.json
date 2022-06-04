@@ -1,0 +1,22 @@
+{
+  "blog": [
+    {
+      "created_date": "2022-06-04T09:46:51.305Z",
+      "title": "How to download",
+      "author": "aalesh patil",
+      "category": "tech",
+      "body": "go to this site click doewbload butoon",
+      "tags": "apps android mocies",
+      "id": 1
+    },
+    {
+      "created_date": "2022-06-04T10:45:26.467Z",
+      "title": "How to download whats app",
+      "author": "Aaleesh sanjay patil",
+      "category": "tech",
+      "body": "go to play store or aple store on iphone search for whatsap and download",
+      "tags": "tech socail app whatsapp",
+      "id": 2
+    }
+  ]
+}
