@@ -1,4 +1,4 @@
-id=localStorage.getItem("editID");
+let id=localStorage.getItem("editID");
 
 
 getObj();
@@ -47,7 +47,10 @@ async function getObj(){
             headers: {
                 "Content-type": "application/json; charset=UTF-8",
             }
-        })
+        }
+        
+        )
+         location.href = "../index.html";
     }
    
     card.append(title, body, author, category, tags,submitBT);
